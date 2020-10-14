@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Qianyue Wei
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: MSc student of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
+- Biomedical imaging
 
 education:
   courses:
