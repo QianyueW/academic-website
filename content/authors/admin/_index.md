@@ -14,15 +14,15 @@ role: MSc student of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University College London
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed robotics, medical image processing and programmable matter.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
+- Computational Model
 - Biomedical imaging
 
 education:
