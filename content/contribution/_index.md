@@ -55,6 +55,17 @@ header:
           }
         }.init();
       });
+  
+      var data = [
+    {
+    "date": "2020-10-24",
+    "total": 17164,
+    "details": [{"name": "Project 1", "date": "2016-01-01 12:30:45", "value": 9192}, 
+                {"name": "Project 2", "date": "2016-01-01 13:37:00", "value": 6753},
+                {"name": "Project N", "date": "2016-01-01 17:52:41", "value": 1219}]
+    }
+    
+    ];
 
       // Set the div target id
       var div_id = 'calendar';
@@ -71,8 +82,9 @@ header:
       };
 
       // Initialize calendar heatmap
-      calendarHeatmap.init(example_data, div_id, color, overview, print);
+      calendarHeatmap.init(data, div_id, color, overview, print);
     })();
+   
   </script>
 </body>
 </html>
