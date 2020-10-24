@@ -80,7 +80,7 @@ header:
       }
     ];
       
-      data = example_data:data;
+      // data = example_data:data;
 
       // Set the div target id
       var div_id = 'calendar';
