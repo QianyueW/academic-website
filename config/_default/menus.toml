@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Contributions"
-  url = "#contributions"
+  url = "contribution/"
   weight = 50
   
 [[main]]
