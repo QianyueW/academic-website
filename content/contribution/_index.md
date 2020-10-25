@@ -57,28 +57,21 @@ header:
       });
   
       var data = [
-      {
-      "date": "2020-10-23",
-      "total": 3600,
-      "details": [{"name": "Project 1", "date": "2016-01-01 12:30:45", "value": 3000}, 
-                  {"name": "Project 2", "date": "2016-01-01 13:37:00", "value": 600},
-                  {"name": "Project N", "date": "2016-01-01 17:52:41", "value": 0}]
-      },
-      {
-      "date": "2020-10-24",
-      "total": 17164,
-      "details": [{"name": "Project 1", "date": "2016-01-01 12:30:45", "value": 9192}, 
-                  {"name": "Project 2", "date": "2016-01-01 13:37:00", "value": 6753},
-                  {"name": "Project N", "date": "2016-01-01 17:52:41", "value": 1219}]
-      }, 
-      {
-      "date": "2020-12-24",
-      "total": 17164,
-      "details": [{"name": "Project 1", "date": "2016-01-01 12:30:45", "value": 9192}, 
-                  {"name": "Project 2", "date": "2016-01-01 13:37:00", "value": 6753},
-                  {"name": "Project N", "date": "2016-01-01 17:52:41", "value": 1219}]
-      }
-    ];
+        {
+        "date": "2020-10-24",
+        "total": 30*60,
+        "details": [
+          {"name": "Workout", "date": "2020-10-24 21:53:45", "value": 30*60}]
+        },
+        {
+        "date": "2020-10-25",
+        "total": 149*60,
+        "details": [
+          {"name": "Workout", "date": "2020-10-25 07:12:45", "value": 39*60},
+          {"name": "Study", "date": "2020-10-25 09:43:00", "value": 45*60},
+          {"name": "Typing", "date": "2020-10-25 10:44:41", "value": 65*60}]
+        }
+      ];
       
       // data = example_data:data;
 
